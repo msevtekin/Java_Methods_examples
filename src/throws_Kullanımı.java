@@ -7,7 +7,6 @@ public class throws_Kullanımı {
             throw new IOException("Yasınız 18'den kuçuk.");
         }else {
             System.out.println("Yasal yaştasınız.");
-            System.out.println("Deneme bitti.");
         }
     }
 
