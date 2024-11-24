@@ -14,5 +14,6 @@ public class throws_Kullanımı {
 
     public static void main(String[] args) throws IOException {
         yasKontrol(10);
+        System.out.println("Deneme");
     }
 }
